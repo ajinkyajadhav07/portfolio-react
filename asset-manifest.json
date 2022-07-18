@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.9aeade08.css",
+    "main.js": "/portfolio-react/static/js/main.da4c4fad.js",
+    "static/js/787.2cf4501c.chunk.js": "/portfolio-react/static/js/787.2cf4501c.chunk.js",
+    "static/media/background3.jpg": "/portfolio-react/static/media/background3.29b715d8254c91f02ed5.jpg",
+    "static/media/physics.png": "/portfolio-react/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/artificial-intelligence.png": "/portfolio-react/static/media/artificial-intelligence.610e1112f72ae9b8900a.png",
+    "static/media/web-design.png": "/portfolio-react/static/media/web-design.9be7c47864a3382d3a9d.png",
+    "static/media/user-experience.png": "/portfolio-react/static/media/user-experience.296f513890b9f30f0a46.png",
+    "static/media/logo.svg": "/portfolio-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio-react/index.html",
+    "main.9aeade08.css.map": "/portfolio-react/static/css/main.9aeade08.css.map",
+    "main.da4c4fad.js.map": "/portfolio-react/static/js/main.da4c4fad.js.map",
+    "787.2cf4501c.chunk.js.map": "/portfolio-react/static/js/787.2cf4501c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aeade08.css",
+    "static/js/main.da4c4fad.js"
+  ]
+}
